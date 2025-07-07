@@ -1,0 +1,115 @@
+{
+    "Paneer Butter Masala": {
+        "Dairy": [
+            "Paneer",
+            "cream",
+            "butter"
+        ],
+        "Veggies": [
+            "red chili powder"
+        ],
+        "Spices": [],
+        "Grains": [],
+        "Nuts": []
+    },
+    "Chana Masala": {
+        "Dairy": [],
+        "Veggies": [
+            "chili powder"
+        ],
+        "Spices": [
+            "cumin"
+        ],
+        "Grains": [],
+        "Nuts": []
+    },
+    "Aloo Gobi": {
+        "Dairy": [],
+        "Veggies": [],
+        "Spices": [
+            "turmeric",
+            "cumin"
+        ],
+        "Grains": [],
+        "Nuts": []
+    },
+    "Gajar Ka Halwa": {
+        "Dairy": [
+            "milk"
+        ],
+        "Veggies": [],
+        "Spices": [
+            "cardamom"
+        ],
+        "Grains": [],
+        "Nuts": []
+    },
+    "Rasgulla": {
+        "Dairy": [
+            "Milk"
+        ],
+        "Veggies": [],
+        "Spices": [],
+        "Grains": [],
+        "Nuts": []
+    },
+    "Vegetable Biryani": {
+        "Dairy": [],
+        "Veggies": [],
+        "Spices": [],
+        "Grains": [
+            "Basmati rice"
+        ],
+        "Nuts": []
+    },
+    "Lemon Rice": {
+        "Dairy": [],
+        "Veggies": [],
+        "Spices": [
+            "turmeric"
+        ],
+        "Grains": [
+            "Rice"
+        ],
+        "Nuts": []
+    },
+    "Pav Bhaji": {
+        "Dairy": [
+            "butter"
+        ],
+        "Veggies": [],
+        "Spices": [],
+        "Grains": [
+            "pav bread"
+        ],
+        "Nuts": []
+    },
+    "Vada Pav": {
+        "Dairy": [],
+        "Veggies": [],
+        "Spices": [],
+        "Grains": [
+            "gram flour",
+            "pav bread"
+        ],
+        "Nuts": []
+    },
+    "Pakoras": {
+        "Dairy": [],
+        "Veggies": [],
+        "Spices": [],
+        "Grains": [
+            "Gram flour"
+        ],
+        "Nuts": []
+    },
+    "Samosa": {
+        "Dairy": [],
+        "Veggies": [],
+        "Spices": [],
+        "Grains": [
+            "flour"
+        ],
+        "Nuts": []
+    }
+}
