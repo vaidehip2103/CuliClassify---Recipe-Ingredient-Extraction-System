@@ -1,6 +1,6 @@
 # CuliClassify---Recipe-Ingredient-Extraction-System
-CuliClassify automates recipe ingredient extraction using Machine Learning (ML) and Natural Language Processing (NLP) techniques like tokenization, part-of-speech tagging, and named entity recognition. This project tackles unstructured online recipes to build accurate, structured ingredient lists for culinary applications.
-
+CuliClassify automates recipe ingredient extraction using Machine Learning (ML) and Natural Language Processing (NLP) techniques like tokenization, part-of-speech tagging, and named entity recognition. This project tackles unstructured online recipes to build accurate, structured ingredient lists for culinary applications.<br><br>
+### **Do look at the PPT to find clicks of some recipes made by me that adds a more personal touch to the project and justifies my interest in this domain!!😋🥞🥘🥐**<br><br>
 The extraction of ingredients from recipes is an essential task in modern food technology and culinary applications. Many online recipes lack clear ingredient lists or contain complex instructions, making ingredient extraction challenging.
 
 This project uses **Machine Learning (ML)** and **Natural Language Processing (NLP)** to automate ingredient extraction from unstructured recipe data. Given the complexity and variability of recipe formats, traditional rule-based systems often fall short in accuracy and scalability.
@@ -26,18 +26,18 @@ Future work aims to integrate domain-specific ontologies to further enhance extr
 
 ---
 
-## 📂 Project Structure
+### 📂 Project Structure
 
-Recipe Ingredient Extraction/
-│
-├── final1.py # Main Python script
-├── final.py # Supporting script
-├── app.py # Application entry point
-├── IndianRecipes.xlsx # Recipe dataset (Excel)
-├── ingredient_model.pkl # Trained ML model
-├── tfidf_vectorizer.pkl # TF-IDF vectorizer
-├── categorized_ingredients.json # Ingredient categories
-└── Report and Research Paper/ # Contains detailed report, research paper, and presentation (PPT)
+Recipe Ingredient Extraction/<br>
+│<br>
+├── final1.py # Main Python script<br>
+├── final.py # Supporting script<br>
+├── app.py # Application entry point<br>
+├── IndianRecipes.xlsx # Recipe dataset (Excel)<br>
+├── ingredient_model.pkl # Trained ML model<br>
+├── tfidf_vectorizer.pkl # TF-IDF vectorizer<br>
+├── categorized_ingredients.json # Ingredient categories<br>
+└── Report and Research Paper/ # Contains detailed report, research paper, and presentation (PPT)<br>
 
 
 
@@ -52,4 +52,4 @@ Recipe Ingredient Extraction/
 
 ---
 
-Feel free to explore, modify, and build upon this project to contribute to the future of smart culinary applications!
+Feel free to explore, modify, and build upon this project to contribute to the future of smart culinary applications!<br>
